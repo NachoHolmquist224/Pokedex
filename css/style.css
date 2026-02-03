@@ -16,3 +16,13 @@
 .bgveneno {
   background-color: #8a2be2;
 }
+
+.bgfuego{
+    background-color: #fd7d24;
+}
+
+@media (width >= 992px){
+    .w-card{
+        width: 312px !important;
+    }
+}
