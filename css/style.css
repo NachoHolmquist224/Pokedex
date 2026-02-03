@@ -4,3 +4,7 @@
     height: 380px;
     object-fit: cover;
 }
+
+.w-select{
+    width: 170px !important;
+}
