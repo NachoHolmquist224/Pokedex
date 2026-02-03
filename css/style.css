@@ -29,6 +29,10 @@
     background-color: #4592c4;
 }
 
+.bgbicho{
+    background-color: #729f3f;
+}
+
 @media (width >= 992px){
     .w-card{
         width: 312px !important;
