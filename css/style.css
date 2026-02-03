@@ -21,6 +21,14 @@
     background-color: #fd7d24;
 }
 
+.bgvolador{
+    background-color: #3dc7ef;
+}
+
+.bgagua{
+    background-color: #4592c4;
+}
+
 @media (width >= 992px){
     .w-card{
         width: 312px !important;
