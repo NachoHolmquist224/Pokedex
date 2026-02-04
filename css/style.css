@@ -38,3 +38,9 @@
         width: 312px !important;
     }
 }
+
+@media (width < 992px){
+    .w-card{
+        width: 350px !important;
+    }
+}
