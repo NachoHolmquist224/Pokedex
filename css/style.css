@@ -37,6 +37,14 @@
     background-color: #30a7d7;
 }
 
+.bgelectrico{
+    background-color: #eed535;
+}
+
+.bgroca{
+    background-color: #a38c21;
+}
+
 @media (width >= 992px){
     .w-card{
         width: 312px !important;
