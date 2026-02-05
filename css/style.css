@@ -33,6 +33,10 @@
     background-color: #729f3f;
 }
 
+.bgdetalle{
+    background-color: #30a7d7;
+}
+
 @media (width >= 992px){
     .w-card{
         width: 312px !important;
